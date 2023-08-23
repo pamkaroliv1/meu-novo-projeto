@@ -18,6 +18,7 @@ nav .Logo a{
     font-weight: 600;
 }
 nav ul{
+  list-style: none;
     display: flex;
     align-items: center;
    padding: 10px; 
@@ -49,6 +50,7 @@ nav li a:hover{
     align-items: center;
     display: flex;
     justify-content:flex-end;
+    background-color: #000000;
 
 }
 .my-form {
@@ -93,3 +95,8 @@ nav li a:hover{
     padding: 10px;
     color: #ccc;
   }
+  img{
+    width: 60px;
+    align-items: end;
+  }
+  
