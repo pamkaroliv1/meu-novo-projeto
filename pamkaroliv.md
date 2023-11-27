@@ -16,5 +16,8 @@ Nâo trabalho na area, mas sonho com isso.
 <h2>
 Criei o site pra um projeto de um curso, todos o dados são ficticion, mas totalmente funcional, hospedei aqui pelo github.</h2>
 
-<div align="center">
+
+<h3>Para visualizadr o site, clique na logo abaixo</h3>
+     ![Alt text](image.png)
+ 
 <a href="https://pamkaroliv1.github.io/Tedtech/"><img align="left" height="100" width="100" src= "https://pamkaroliv1.github.io/Tedtech/tedtech.png" class="media-object  img-responsive img-thumbnail"> </a>
