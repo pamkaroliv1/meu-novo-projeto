@@ -20,7 +20,9 @@ Nâo trabalho na area, mas sonho com isso.
 Criei o site pra um projeto de um curso, todos o dados são ficticion, mas totalmente funcional, hospedei aqui pelo github.</h2>
 <h3>Para visualizadr o site, clique na logo abaixo</h3>
 
-<div><a href="https://pamkaroliv1.github.io/Tedtech/"><img align="left" height="100" width="100" src= "https://pamkaroliv1.github.io/Tedtech/tedtech.png" class="media-object  img-responsive img-thumbnail"> </div>
+<div>![MayarahBatistaSalonLineGIF](https://github.com/pamkaroliv1/meu-novo-projeto/assets/105256100/b9a77d4f-3b08-4cd8-a468-a2ecdfaba8d4)
+
+  <a href="https://pamkaroliv1.github.io/Tedtech/"><img align="left" height="100" width="100" src= "https://pamkaroliv1.github.io/Tedtech/tedtech.png" class="media-object  img-responsive img-thumbnail"> </div>
 
 
 
