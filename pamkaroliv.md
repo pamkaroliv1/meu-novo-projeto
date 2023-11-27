@@ -16,11 +16,11 @@ Nâo trabalho na area, mas sonho com isso.
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pamkaroliv1&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ## Projeto
-<div><h2>
+<h2>
 Criei o site pra um projeto de um curso, todos o dados são ficticion, mas totalmente funcional, hospedei aqui pelo github.</h2>
 <h3>Para visualizadr o site, clique na logo abaixo</h3>
- ##👇👇👇👇👇
-<a href="https://pamkaroliv1.github.io/Tedtech/"><img align="left" height="100" width="100" src= "https://pamkaroliv1.github.io/Tedtech/tedtech.png" class="media-object  img-responsive img-thumbnail"> </div>
+
+<div><a href="https://pamkaroliv1.github.io/Tedtech/"><img align="left" height="100" width="100" src= "https://pamkaroliv1.github.io/Tedtech/tedtech.png" class="media-object  img-responsive img-thumbnail"> </div>
 
 
 
