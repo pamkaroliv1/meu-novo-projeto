@@ -18,6 +18,6 @@ Criei o site pra um projeto de um curso, todos o dados são ficticion, mas total
 
 <div align="center">
 
-<a href="https://pamkaroliv1.github.io/Tedtech/"><img src="https://pamkaroliv1.github.io/Tedtech/tedtech.png" class="media-object  img-responsive img-thumbnail"></a>
+<a href="https://pamkaroliv1.github.io/Tedtech/"><img align="left" height="50" width="40" src= "https://pamkaroliv1.github.io/Tedtech/tedtech.png" class="media-object  img-responsive img-thumbnail"> </a>
 
-
+<img align="center" alt="CSS" height="30" width="40" src="https://pamkaroliv1.github.io/Tedtech/tedtech.png"> 
