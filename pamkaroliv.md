@@ -5,7 +5,7 @@
 </div>
 
 <h1>Eu sou a Pamella tenho 29 anos, tem um ano que estou em aprendizado nas area de programação, ja tenho alguma intimidade com HTML/CSS, mas quero ir mais além.
-Nâo trabalho na area, mas sonho com isso.
+Não trabalho na area, mas sonho com isso.
 </h1>
 
 ## Habilidade 
@@ -17,7 +17,7 @@ Nâo trabalho na area, mas sonho com isso.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pamkaroliv1&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ## Projeto
 <h2>
-Criei o site pra um projeto de um curso, todos o dados são ficticion, mas totalmente funcional, hospedei aqui pelo github.</h2>
+Criei o site pra um projeto de um curso, todos o dados são ficticio, mas totalmente funcional, hospedei aqui pelo github.</h2>
 <h3>Para visualizadr o site, clique na logo abaixo</h3>
 
 <div>
