@@ -14,5 +14,6 @@ Nâo trabalho na area, mas sonho com isso.
 
 ## Projeto
 <h2>
-Criei o site pra um projeto de um curso, todos o dados são ficticion, mas totalmente funcional, hospedei aqui pelo github.
-<img align="center" alt="CSS" height="30" width="40" src="https://pamkaroliv1.github.io/Tedtech/tedtech.png"> 
+Criei o site pra um projeto de um curso, todos o dados são ficticion, mas totalmente funcional, hospedei aqui pelo github.</h2>
+
+<img align="center" alt="https://pamkaroliv1.github.io/Tedtech/" height="30" width="40" src="https://pamkaroliv1.github.io/Tedtech/tedtech.png">
