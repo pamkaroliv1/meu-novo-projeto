@@ -18,4 +18,4 @@ Criei o site pra um projeto de um curso, todos o dados são ficticion, mas total
 
 <div align="center">
 
-<img align="center" alt="CSS" height="30" width="40" src="https://pamkaroliv1.github.io/Tedtech/tedtech.png"> 
+<img align="center" alt="CSS" height="50" width="50" src="https://pamkaroliv1.github.io/Tedtech/tedtech.png"> 
