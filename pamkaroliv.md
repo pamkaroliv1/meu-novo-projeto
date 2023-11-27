@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pamella Oliveira
+# Pamella Oliveira  💻
 
 </div>
 
@@ -8,5 +8,11 @@
 Nâo trabalho na area, mas sonho com isso.
 </h1>
 
-## Habilidade
+## Habilidade 
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+
+## Projeto
+<h2>
+Criei o site pra um projeto de um curso, todos o dados são ficticion, mas totalmente funcional, hospedei aqui pelo github.
+<img align="center" alt="CSS" height="30" width="40" src="https://pamkaroliv1.github.io/Tedtech/tedtech.png"> 
