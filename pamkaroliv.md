@@ -18,6 +18,5 @@ Criei o site pra um projeto de um curso, todos o dados são ficticion, mas total
 
 
 <h3>Para visualizadr o site, clique na logo abaixo</h3>
-     ![Alt text](image.png)
- 
+![Alt text](image-1.png)
 <a href="https://pamkaroliv1.github.io/Tedtech/"><img align="left" height="100" width="100" src= "https://pamkaroliv1.github.io/Tedtech/tedtech.png" class="media-object  img-responsive img-thumbnail"> </a>
